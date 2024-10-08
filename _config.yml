@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "xur@uchicago.edu"}
-  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/ruiyangx"}
   # - {title: Phone, icon: phone, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/xu-ruiyang/"}
 
