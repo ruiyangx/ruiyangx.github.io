@@ -1,5 +1,5 @@
 ---
-title: "Ruiyang Xu"
+title: "Ruiyang Xu Project Showcase"
 layout: post
 ---
 
